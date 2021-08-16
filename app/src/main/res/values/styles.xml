@@ -6,6 +6,11 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <!--Adding a font family and android:fontFamily attributes to the theme -->
+        <item name="fontFamily">@font/lobster_two</item>
+        <item name="android:fontFamily">@font/lobster_two</item>
+
     </style>
 
 </resources>
